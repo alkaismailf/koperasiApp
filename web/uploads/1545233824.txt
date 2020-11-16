@@ -1,0 +1,13 @@
+https://informazone.com/jenis-jenis-koperasi/#3_Koperasi_Simpan_Pinjam
+
+https://www.finansialku.com/definisi-koperasi-adalah/
+
+https://www.studiobelajar.com/koperasi/
+
+Turban, Efraim et al. (2003). Introduction to Information Technology, 2nd Edition. John Wiley & Sons, Inc., USA.
+
+UML (Unified Modeling Language) adalah bahasa pemodelan visual tujuan umum yang digunakan untuk menentukan, memvisualisasikan, membangun, 
+dan mendokumentasikan artefak dari sistem perangkat lunak. UML menangkap keputusan dan pemahaman tentang sistem yang harus dibangun. 
+UML digunakan untuk memahami, mendesain, menelusuri, mengkonfigurasi, memelihara, dan mengontrol informasi tentang sistem tersebut.
+
+UML Menangkap informasi tentang struktur statis dan perilaku dinamis dari suatu sistem. sistem dimodelkan sebagai kumpulan objek diskrit yang berinteraksi untuk melakukan pekerjaan yang pada akhirnya menguntungkan pengguna luar.
